@@ -563,3 +563,5 @@ fabric.properties
 /Apis/SWD392_BE.API/appsettings.json
 /.gitignore
 MealMentor/MealMentor.API/obj
+MealMentor/MealMentor.Core/obj
+MealMentor/.vs

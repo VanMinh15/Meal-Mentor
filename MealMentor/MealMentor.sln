@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MealMentor.Core", "MealMentor\MealMentor.Core.csproj", "{3C64E5CF-9C4D-45D6-B1EB-08C2CE1427FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MealMentor.API", "MealMentor.API\MealMentor.API.csproj", "{3A0C7F91-EF39-4C62-94A4-3C34A7717D3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C64E5CF-9C4D-45D6-B1EB-08C2CE1427FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C64E5CF-9C4D-45D6-B1EB-08C2CE1427FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C64E5CF-9C4D-45D6-B1EB-08C2CE1427FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C64E5CF-9C4D-45D6-B1EB-08C2CE1427FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A0C7F91-EF39-4C62-94A4-3C34A7717D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0C7F91-EF39-4C62-94A4-3C34A7717D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A0C7F91-EF39-4C62-94A4-3C34A7717D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A0C7F91-EF39-4C62-94A4-3C34A7717D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A37FAA4F-6EF4-4944-B10D-94728C93B163}
+	EndGlobalSection
+EndGlobal

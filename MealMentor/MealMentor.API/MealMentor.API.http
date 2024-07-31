@@ -1,0 +1,6 @@
+@MealMentor.API_HostAddress = http://localhost:5072
+
+GET {{MealMentor.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

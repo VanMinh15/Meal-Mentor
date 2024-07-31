@@ -562,3 +562,4 @@ fabric.properties
 # End of https://www.toptal.com/developers/gitignore/api/rider
 /Apis/SWD392_BE.API/appsettings.json
 /.gitignore
+MealMentor/MealMentor.API/obj

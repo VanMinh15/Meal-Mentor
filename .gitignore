@@ -565,3 +565,4 @@ fabric.properties
 bin/
 obj/
 .vs
+MealMentor/MealMentor/obj
